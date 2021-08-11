@@ -1,11 +1,11 @@
 {
   "tests": [
     {
-      "name": "Fix Code 2",
+      "name": "Write Code 1",
       "setup": "",
-      "run": "python3 src/fix_code_2.py",
-      "input": "blue\r\nberry",
-      "output": "The string blue\rberry has 10 letters.",
+      "run": "python3 src/write_code_1.py",
+      "input": "6\r\n5",
+      "output": "6\r times 5 is 30",
       "comparison": "included",
       "timeout": 10,
       "points": 5
