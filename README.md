@@ -1,6 +1,6 @@
-# Lesson 1 Practice
+# Numeric Operations 1 Practice
 
-Use this repository (repo, for short) to complete your practice for Lesson 1.
+Use this repository (repo, for short) to complete your practice for this lesson.
 
 ## Complete the following:
 #### Edpuzzle
