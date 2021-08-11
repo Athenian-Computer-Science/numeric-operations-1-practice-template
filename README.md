@@ -16,10 +16,10 @@ Use this repository (repo, for short) to complete your practice for this lesson.
 
 #### Fix & Write Code  
 * [Write Code #1](src/write_code_1.py) 🪁
-  * Write a multiplication calculator that prompts the user for two numbers and prints the result.
+  * Write a multiplication calculator that prompts the user for two numbers and prints the result. Your program should work with any real numbers (integers or decimals).
 
 ### Submitting your Repo
-* When you have completed each exercise, commit and push your repo to GitHub. Be sure to check the feedback to be sure your code and style pass the checks.
+* When you are finished, commit and push your repo to GitHub. Be sure to check the feedback to be sure your code and style pass the checks.
 
 
 **Attribution:**
