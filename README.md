@@ -14,7 +14,15 @@ Use this repository (repo, for short) to complete your practice for this lesson.
 * [multiplying strings - optional review](https://www.readingbat.com/content/python/Athenian:%20Variables/mult2) 🚀
 * [division](https://www.readingbat.com/content/python/Athenian:%20Variables/divide1) 🪁
 
-#### Fix & Write Code  
+#### Fix & Write Code 
+* [Fix Code #1](src/fix_code_1.py) 🪁
+  * This program should calculate the area of a triangle, using base and height information entered by the user.
+  * Example: 
+  ```
+  Base: 10
+  Height: 6
+  Output: The area of the triangle is 30.
+  ```
 * [Write Code #1](src/write_code_1.py) 🪁
   * Write a multiplication calculator that prompts the user for two numbers and prints the result. Your program should work with any real numbers (integers or decimals).
 
